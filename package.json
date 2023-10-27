@@ -1,0 +1,26 @@
+{
+  "name": "testing101",
+  "version": "1.0.0",
+  "description": "Section 1 - Testing The Complete Developer's Guide",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Anik7303/ztm-testing101.git"
+  },
+  "keywords": [
+    "Testing",
+    "Jest",
+    "JavaScript"
+  ],
+  "author": "Anik Mohammad <anik7303@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anik7303/ztm-testing101/issues"
+  },
+  "homepage": "https://github.com/Anik7303/ztm-testing101#readme"
+}
